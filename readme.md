@@ -1,5 +1,4 @@
-# 🗺️ GIS SQL Sammlung - Basler & Hofmann
-
+# 🗺️ GIS SQL Sammlung
 PostgreSQL/PostGIS Queries für Geodaten-Analysen und Automatisierung.
 
 ## 📁 Dateien
